@@ -29,3 +29,7 @@ This project is a GenAI-based Marketing Content Generator that creates professio
 
 ## Author
 Bhumika Chouhan
+Bhavya Rathore
+Bhumika Sanodiya
+Dollyna Sahu
+Devi Modi
